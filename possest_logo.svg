@@ -1,0 +1,6 @@
+
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" stroke="#a1ffce" stroke-width="6" fill="none"/>
+  <text x="50%" y="55%" text-anchor="middle" font-size="96" font-family="Georgia" fill="#d4fc79">Φ</text>
+  <text x="50%" y="90%" text-anchor="middle" font-size="16" font-family="Segoe UI" fill="#ffffff">Possest OS</text>
+</svg>
